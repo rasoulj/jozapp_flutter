@@ -1,0 +1,5 @@
+flutter_native_splash:
+#  color: "#ff6666"
+#  color_dark: "#660000"
+  fullscreen: true
+  background_image: "assets/launcher_icon/launch_screen.png"
